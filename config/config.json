@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49320DE589E8033A9dBFE9ff9C8d2397E403cB45",
+  "SCAN_LINK": "https://etherscan.io/address/0x49320de589e8033a9dbfe9ff9c8d2397e403cb45#readContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "HUMANOIDS OF K2-18B",
+  "SYMBOL": "HUMANOID",
+  "MAX_SUPPLY": 3700,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/humanoidsofk218b",
+  "SHOW_BACKGROUND": true
+}
